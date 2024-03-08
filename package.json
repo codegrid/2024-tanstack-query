@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "type": "module",
+  "name": "2024-tanstack_query",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.12",
+    "vite-plugin-solid": "^2.9.1"
+  },
+  "dependencies": {
+    "@tanstack/solid-query": "^5.18.0",
+    "solid-js": "^1.8.12"
+  }
+}
