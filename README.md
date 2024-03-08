@@ -1,6 +1,10 @@
-# 2024-tanstack_query
+# 2024-tanstack-query
 
 ```sh
+# Once
+npm i
+
+# Dev
 npm run dev
 ```
 
